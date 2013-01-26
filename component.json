@@ -1,0 +1,20 @@
+{
+  "name": "stack",
+  "repo": "isomorphicjs/stack",
+  "description": "Minimal middleware stack for the browser",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/url": "*",
+    "component/emitter": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/cache.js",
+    "lib/index.js",
+    "lib/proto.js",
+    "lib/utils.js"
+  ]
+}
